@@ -1,0 +1,8 @@
+.build-env/
+build/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# dist/WIMapp.exe se incluye como entregable solicitado.
